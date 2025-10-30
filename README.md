@@ -1,4 +1,4 @@
-![logo](https://github.com/aditya-kush27/aditya-kush27/blob/main/Beige%20Minimalist%20Personal%20Business%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Aditya kushwaha</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
